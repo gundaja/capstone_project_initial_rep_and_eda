@@ -2,6 +2,7 @@
 
 **Author:** Jayson Gundayao  
 **Contact:** jayson.gundayao@gmail.com  
+**Institution:** UC Berkeley (Professional Certificate in Machine Learning and Artificial Intelligence)  
 **Dataset:** [UCI Diabetes 130-US Hospitals (1999–2008)](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
 
 ---
