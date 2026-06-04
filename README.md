@@ -107,4 +107,4 @@ Rather than operating as a black-box model, the final XGBoost architecture was u
 
 ## References
 
-Strack, B., DeShazo, J., Gennings, C., Olmo, J., Ventura, S., Cios, K., & Clore, J. (2014). Impact of HbA1c measurement on hospital re-admission rates: Analysis of 70,000 clinical database patient records. *BioMed Research International*, 2014. https://doi.org/10.24432/C5230J
+Strack, B., DeShazo, J., Gennings, C., Olmo, J., Ventura, S., Cios, K., & Clore, J. (2014). Impact of HbA1c measurement on hospital re-admission rates: Analysis of 70,000 clinical database patient records. *BioMed Research International*, 2014. https://onlinelibrary.wiley.com/doi/10.1155/2014/781670
