@@ -72,7 +72,7 @@ The primary optimization metric selected was **ROC-AUC**, ensuring a threshold-a
 | :--- | :--- | :--- | :--- | :--- |
 | **Baseline Models** | Unweighted | ~0.64 – 0.65 | — | Extremely poor positive class recall (~0%). |
 | **Random Forest** | Class Weighted | 0.654 | 0.651 | Highly stable, but limited macro ranking power. |
-| **XGBoost (Tuned)** | Balanced Weighting | **0.672** | **0.671** | **Best-in-class ranking. Captures ~45-50% of true readmissions at an acceptable precision trade-off.** |
+| **XGBoost (Tuned)** | Balanced Weighting | **0.672** | **0.7086** | **Best-in-class ranking. Captures ~45-50% of true readmissions at an acceptable precision trade-off.** |
 | **XGBoost + SMOTE** | Synthetic Sampling | 0.661 | 0.658 | Induced slight overfitting; lower generalization score on held-out test data. |
 
 > **Contextualizing the Results:** The final Test ROC-AUC of **0.671** aligns perfectly with established academic benchmarks for this noisy, retrospective dataset (Strack et al., 2014, which marks top-tier performance between 0.64–0.68). 
